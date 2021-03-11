@@ -1,0 +1,22 @@
+h1
+{
+	color: red;
+}
+body
+{
+	background-image: url(https://www.kadolog.com/sites/default/files/covers/cadeau-noel.jpg);
+	background-position: center top ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: auto;
+	width: 1000;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 90p;
+
+p.modif.p	
+	{
+	font-size: 80p;
+	}
+
+}
